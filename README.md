@@ -1,52 +1,56 @@
-<h1 align="left">Hi there 👋 I'm Aditi Patil</h1>
+<div align="center">
 
-## 🚀 About Me
+# Aditi Patil
 
-- 🎓 Computer Engineering Student
-- 💻 Learning Web Development & AI/ML
-- 🌱 Exploring Open Source Contributions
-- ✨ Contributor in GSSoC 2026
-- 📚 Currently improving Git & GitHub skills
+**Computer Engineering Student | Developer in Progress**
 
-## 🛠️ Tech Stack
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Learning+to+build+cool+things.)](https://git.io/typing-svg)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-</p>
+</div>
+
+<br>
+
+## 🙋‍♀️ About Me
+
+🎓 Computer Engineering student <br>
+💻 Learning Full Stack Web Development <br>
+☕ Java & Python enthusiast <br>
+🌱 Currently exploring Data Structures & Algorithms in Java <br>
+🚀 Building projects to sharpen my skills <br>
+
+<br>
+
+## 💻 Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,js&theme=light)](https://skillicons.dev)
+
+## 🛠️ Tools & Platforms
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=light)](https://skillicons.dev)
+
+<br>
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditip01-cloud&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=aditip01-cloud&theme=default&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&ring=0077B5&fire=0077B5&currStreakLabel=0077B5)](https://git.io/streak-stats)
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=aditip01-cloud&theme=tokyonight" />
-</p>
+[![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditip01-cloud&show_icons=true&theme=default&hide_border=true&count_private=true&icon_color=0077B5&title_color=0077B5)](https://github.com/aditip01-cloud)
 
-## 🌱 Currently Learning
+</div>
 
-- Open Source Contribution
-- Machine Learning
-- Frontend Development
-- Git & GitHub
+## 🔥 Contribution Graph
 
-## 📫 Connect With Me
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/aditip01-cloud" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditip01-cloud&theme=minimal&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <a href="https://www.linkedin.com/in/aditi-patil01" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  ⭐ Learning one commit at a time ⭐
-</p>
-```
+<br>
 
+## 🌐 Connect
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/aditi-patil01)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/aditip01-cloud)

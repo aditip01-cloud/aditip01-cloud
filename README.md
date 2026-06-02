@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Aditi Patil
+```md
+<h1 align="left">Hi there 👋 I'm Aditi Patil</h1>
 
 ## 🚀 About Me
 
@@ -48,3 +49,5 @@
 <p align="center">
   ⭐ Learning one commit at a time ⭐
 </p>
+```
+

@@ -5,6 +5,7 @@
 - 🎓 Computer Engineering Student
 - 💻 Learning Web Development & AI/ML
 - 🌱 Exploring Open Source Contributions
+- ✨ Contributor in GSSoC 2026
 - 📚 Currently improving Git & GitHub skills
 
 ## 🛠️ Tech Stack

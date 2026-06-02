@@ -1,4 +1,3 @@
-```md
 <h1 align="left">Hi there 👋 I'm Aditi Patil</h1>
 
 ## 🚀 About Me

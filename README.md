@@ -1,9 +1,5 @@
 # Hi there 👋 I'm Aditi Patil
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=35&center=true&vCenter=true&width=1000&lines=Web+Development+Learner;AI%2FML+Explorer;Open+Source+Contributor;First+Year+Engineering+Student" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -26,19 +22,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditip01-cloud&show_icons=true&theme=tokyonight" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditip01-cloud&layout=compact&theme=tokyonight"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditip01-cloud\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aditip01-cloud&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=aditip01-cloud\&theme=tokyonight)
 
 ---
 
@@ -55,7 +45,11 @@
 
 <p align="left">
 <a href="https://github.com/aditip01-cloud" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+  <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/aditi-patil01" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 </p>
 

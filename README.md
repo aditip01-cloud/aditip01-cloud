@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-* 🎓 First-Year Engineering Student
+* 🎓 Computer Engineering Student
 * 💻 Learning Web Development & AI/ML
 * 🌱 Exploring Open Source Contributions
 * ✨ Contributor in GSSoC 2026

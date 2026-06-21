@@ -77,24 +77,69 @@ I learn through building projects, solving problems, and continuously improving 
 </tr>
 
 <tr>
+<th colspan="2" align="center">📊 GitHub Stats</th>
+</tr>
+
+<tr>
+
 <td width="50%" align="center">
-<img
-height="195em"
-src="https://github-readme-stats.vercel.app/api?username=aditip01-cloud&show_icons=true&bg_color=ffffff&title_color=9333ea&text_color=374151&icon_color=9333ea&hide_border=true&count_private=true"
-/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=aditip01-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=aditip01-cloud&show_icons=true&bg_color=ffffff&title_color=9333ea&text_color=374151&icon_color=9333ea&hide_border=true&count_private=true"
+  />
+  <img
+    height="195em"
+    src="https://github-readme-stats.vercel.app/api?username=aditip01-cloud&show_icons=true"
+  />
+</picture>
+
 </td>
 
 <td width="50%" align="center">
-<img
-height="195em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditip01-cloud&layout=compact&bg_color=ffffff&title_color=9333ea&text_color=374151&hide_border=true"
-/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aditip01-cloud&layout=compact&theme=tokyonight&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aditip01-cloud&layout=compact&bg_color=ffffff&title_color=9333ea&text_color=374151&hide_border=true"
+  />
+  <img
+    height="195em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditip01-cloud&layout=compact"
+  />
+</picture>
+
 </td>
+
 </tr>
 
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditip01-cloud&theme=github-light&hide_border=true" width="100%"/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=aditip01-cloud&theme=tokyo-night&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=aditip01-cloud&theme=github-light&hide_border=true"
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aditip01-cloud"
+    width="100%"
+  />
+</picture>
+
 </td>
 </tr>
 

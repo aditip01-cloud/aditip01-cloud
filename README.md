@@ -77,49 +77,36 @@ I learn through building projects, solving problems, and continuously improving 
 </tr>
 
 <tr>
-<th colspan="2" align="center">📊 GitHub Stats</th>
+
+<td width="50%" align="center">
+
+<img
+height="195em"
+src="https://github-readme-stats.vercel.app/api?username=aditip01-cloud&show_icons=true&bg_color=00000000&hide_border=true&title_color=9333ea&text_color=6b7280&icon_color=9333ea&count_private=true"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+height="195em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditip01-cloud&layout=compact&bg_color=00000000&hide_border=true&title_color=9333ea&text_color=6b7280"
+/>
+
+</td>
+
 </tr>
 
 <tr>
+<td colspan="2" align="center">
 
-<td width="50%" align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=aditip01-cloud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=aditip01-cloud&show_icons=true&bg_color=ffffff&title_color=9333ea&text_color=374151&icon_color=9333ea&hide_border=true&count_private=true"
-  />
-  <img
-    height="195em"
-    src="https://github-readme-stats.vercel.app/api?username=aditip01-cloud&show_icons=true"
-  />
-</picture>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=aditip01-cloud&bg_color=00000000&color=9333ea&line=21d4fd&point=9333ea&hide_border=true"
+width="100%"
+/>
 
 </td>
-
-<td width="50%" align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aditip01-cloud&layout=compact&theme=tokyonight&hide_border=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aditip01-cloud&layout=compact&bg_color=ffffff&title_color=9333ea&text_color=374151&hide_border=true"
-  />
-  <img
-    height="195em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditip01-cloud&layout=compact"
-  />
-</picture>
-
-</td>
-
 </tr>
 
 <tr>

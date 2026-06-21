@@ -102,30 +102,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditip01-clo
 <td colspan="2" align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=aditip01-cloud&bg_color=00000000&color=9333ea&line=21d4fd&point=9333ea&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=aditip01-cloud&theme=github&bg_color=00000000&hide_border=true"
 width="100%"
 />
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=aditip01-cloud&theme=tokyo-night&hide_border=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=aditip01-cloud&theme=github-light&hide_border=true"
-  />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aditip01-cloud"
-    width="100%"
-  />
-</picture>
 
 </td>
 </tr>

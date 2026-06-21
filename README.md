@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9921e8,100:21d4fd&height=220&section=header&text=Aditi%20Patil&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Computer%20Engineering%20Student%20%7C%20Developer%20in%20Progress&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7c3aed&center=true&vCenter=true&width=650&lines=Learning+to+Build+Cool+Things+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=21d4fd&center=true&vCenter=true&width=650&lines=Learning+to+Build+Cool+Things+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@
 <tr>
 <td colspan="2">
 
-I'm a <strong>Computer Engineering student</strong> from Maharashtra, India 🇮🇳.
+I'm a <strong>Computer Engineering student</strong>
 
 Currently learning and exploring:
 

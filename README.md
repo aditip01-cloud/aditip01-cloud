@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9921e8,100:21d4fd&height=220&section=header&text=Aditi%20Patil&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Computer%20Engineering%20Student%20%7C%20Developer%20in%20Progress&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=21d4fd&center=true&vCenter=true&width=650&lines=Learning+to+Build+Cool+Things+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=21d4fd&center=true&vCenter=true&width=650&lines=Code+%7C+Debug+%7C+Deploy+%7C+Repeat)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,8 +28,7 @@ Currently learning and exploring:
 - 🏗️ System Design
 - ☁️ Cloud Computing Basics
 
-I learn through building projects, solving problems, and continuously improving my skills through projects.
-
+I learn by building projects, solving problems, and continuously improving.
 </td>
 </tr>
 
@@ -101,11 +100,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditip01-clo
 <tr>
 <td colspan="2" align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=aditip01-cloud&theme=github&bg_color=00000000&hide_border=true"
-width="100%"
-/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditip01-cloud&bg_color=00000000&color=6b7280&line=4ade80&point=16a34a&area=true&area_color=4ade80&hide_border=true" width="100%"/>
 </td>
 </tr>
 
